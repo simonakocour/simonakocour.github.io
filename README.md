@@ -1,2 +1,2 @@
-# skocour.github.io
+# simonakocour.github.io
 Personal website
